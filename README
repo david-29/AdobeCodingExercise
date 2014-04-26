@@ -1,0 +1,26 @@
+The three Project Euler coding exercises that I selected are:
+
+1. Problem 17:   Number letter counts
+2. Problem 41:   Pandigital prime
+3. Problem 47:   Distinct primes factors
+
+
+For each problem, there is a 'run' module, a 'test' module
+and an implementation module.  There is a doc comment for the
+main() function in each 'run' module explaining how to run
+that script and which arguments to supply. The 'test' modules
+can simply be run. The code is written for the Python 3
+environment.
+
+The solutions to the problems are:
+
+17:
+Range:  [1,1000]   letter count:  21124
+
+41:
+The largest prime pandigital number is: 7652413
+
+47:
+For n: 4, first of 4 consecutive numbers with 4 distinct prime factors is: 134043
+
+
